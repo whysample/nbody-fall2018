@@ -34,5 +34,7 @@ expected for celestial bodies. This is due to large values of dt
 when approximating forces. Write down below what you see during
 this simulation.
 
-(replace with observed behavior)
+Due to the very large value for dt, the rotation of the celestial bodies around
+the sun was occurring much faster and the forces led to many planets flying off the screen
+and exiting their original orbit. 
 
